@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "days2lessons"]
+	path = days2lessons
+	url = https://github.com/cran/days2lessons
 [submodule "hours2lessons"]
 	path = hours2lessons
 	url = https://github.com/cran/hours2lessons
